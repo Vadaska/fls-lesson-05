@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+	font-family: "DancingScript";
+	src: url("../fonts/DancingScript-Regular.woff2") format("woff2"), url("../fonts/DancingScript-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "PlayfairDisplay";
+	src: url("../fonts/PlayfairDisplay-Regular.woff2") format("woff2"), url("../fonts/PlayfairDisplay-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+img{
+	width: 400px;
+	display: block;
+	margin: 0 auto;
+}
+
+.title-name {
+	font-family: DancingScript , serif;
+	font-size: 32px;
+	font-style: italic;
+	text-align:center;
+}
+header p {color: red;
+	text-align: center;
+}
+.start-tools{
+		font-family: PlayfairDisplay , serif;
+	font-size: 16px;
+	line-height: 1.4;
+	font-style: normal;
+	text-align:center;
+	text-shadow: 3px 3px 7px #000;
+	background-color: #9eecda;
+	padding: 20px 80px 20px 80px;
+	width: auto;
+
+}
+.start-tools h2 {
+	font-family: DancingScript , serif;
+	font-size: 22px;
+	font-style: normal;
+	text-align:center;
+	text-decoration:underline;
+}
+.Plant {
+	font-family: PlayfairDisplay , serif;
+	font-size: 16px;
+	line-height: 1.4;
+	font-style: normal;
+	text-align:center;
+	text-shadow: 3px 3px 7px #000;
+	background-color: rgb(223, 223, 96);
+	padding: 20px 80px 20px 80px;
+}
+.Plant h2 {
+	font-family: DancingScript , serif;
+	font-size: 22px;
+	font-style: normal;
+	text-align:center;
+	text-decoration:overline;
+}
+.place {
+	font-family: PlayfairDisplay , serif;
+	font-size: 16px;
+	line-height: 1.4;
+	font-style: normal;
+	text-align:center;
+	text-shadow: 3px 3px 7px #000;
+	background-color: #e98f8f;
+	padding: 20px 80px 20px 80px;
+}
+.place h2 {
+	font-family: DancingScript , serif;
+	font-size: 22px;
+	font-style: normal;
+	text-align:center;
+	text-decoration:line-through;
+}
+.pond {
+	font-family: Roboto , serif;
+	font-size: 18px;
+	line-height: 1.4;
+	font-style: normal;
+	font-weight: 400;
+	text-align:center;
+	text-shadow: 3px 3px 7px #000;
+	background-color: #9480dc;
+	padding: 20px 80px 20px 80px;
+}
+.pond h2 {
+	font-family: DancingScript , serif;
+	font-size: 22px;
+	font-style: normal;
+	text-align:center;
+	text-decoration:none
+}
